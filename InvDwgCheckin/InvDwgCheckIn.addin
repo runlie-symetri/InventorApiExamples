@@ -1,0 +1,15 @@
+<Addin Type="Standard">
+  <ClassId>{43D40537-ED29-45F9-A803-98B44CE802CE}</ClassId>
+  <ClientId>{43D40537-ED29-45F9-A803-98B44CE802CE}</ClientId>
+  <DisplayName>InvDwgCheckIn</DisplayName>
+  <Description>Inventor DWG Check In Test</Description>
+  <Assembly>.\InvDwgCheckIn.dll</Assembly>
+  <OSType>Win64</OSType>
+  <LoadAutomatically>1</LoadAutomatically>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>19..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <LoadBehavior>0</LoadBehavior>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
